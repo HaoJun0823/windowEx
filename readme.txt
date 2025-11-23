@@ -25,3 +25,6 @@ manual.tjs を参照してください。
 
 このプラグインのライセンスは吉里吉里本体に準拠してください。
 
+
+==========================================================
+HaoJun0823: This fork releases a usable x86 version (32-bit) DLL for those who don't know how to compile DLLs :)
